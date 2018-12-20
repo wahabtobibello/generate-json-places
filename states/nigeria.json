@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Abia",
+    "slug": "abia",
+    "stateCode": "AB",
+    "lat": 5.430892099999999,
+    "long": 7.524724300000001
+  },
+  {
+    "name": "Abuja",
+    "slug": "abuja",
+    "stateCode": "FCT",
+    "lat": 8.8556838,
+    "long": 7.179025999999999
+  },
+  {
+    "name": "Adamawa",
+    "slug": "adamawa",
+    "stateCode": "AD",
+    "lat": 9.3250497,
+    "long": 12.4380581
+  },
+  {
+    "name": "Akwa Ibom",
+    "slug": "akwa-ibom",
+    "stateCode": "AK",
+    "lat": 4.929986899999999,
+    "long": 7.872159999999999
+  },
+  {
+    "name": "Anambra",
+    "slug": "anambra",
+    "stateCode": "AN",
+    "lat": 6.2757656,
+    "long": 7.0068393
+  },
+  {
+    "name": "Bauchi",
+    "slug": "bauchi",
+    "stateCode": "BA",
+    "lat": 10.315833,
+    "long": 9.844166999999999
+  },
+  {
+    "name": "Bayelsa",
+    "slug": "bayelsa",
+    "stateCode": "BY",
+    "lat": 4.867776699999999,
+    "long": 5.898713900000001
+  },
+  {
+    "name": "Benue",
+    "slug": "benue",
+    "stateCode": "BE",
+    "lat": 7.350825899999999,
+    "long": 8.8362755
+  },
+  {
+    "name": "Borno",
+    "slug": "borno",
+    "stateCode": "BR",
+    "lat": 11.5097479,
+    "long": 12.9789121
+  },
+  {
+    "name": "Cross River",
+    "slug": "cross-river",
+    "stateCode": "CR",
+    "lat": 6.167031499999999,
+    "long": 8.6600586
+  },
+  {
+    "name": "Delta",
+    "slug": "delta",
+    "stateCode": "DE",
+    "lat": 5.5324624,
+    "long": 5.898713900000001
+  },
+  {
+    "name": "Ebonyi",
+    "slug": "ebonyi",
+    "stateCode": "EB",
+    "lat": 6.177973,
+    "long": 7.959286299999999
+  },
+  {
+    "name": "Edo",
+    "slug": "edo",
+    "stateCode": "ED",
+    "lat": 6.5438101,
+    "long": 5.898713900000001
+  },
+  {
+    "name": "Ekiti",
+    "slug": "ekiti",
+    "stateCode": "EK",
+    "lat": 7.665581299999999,
+    "long": 5.3102505
+  },
+  {
+    "name": "Enugu",
+    "slug": "enugu",
+    "stateCode": "EN",
+    "lat": 6.452667,
+    "long": 7.510332999999998
+  },
+  {
+    "name": "Gombe",
+    "slug": "gombe",
+    "stateCode": "GO",
+    "lat": 10.283333,
+    "long": 11.166667
+  },
+  {
+    "name": "Imo",
+    "slug": "imo",
+    "stateCode": "IM",
+    "lat": 5.5214533,
+    "long": 6.920913499999999
+  },
+  {
+    "name": "Jigawa",
+    "slug": "jigawa",
+    "stateCode": "JI",
+    "lat": 12.5700315,
+    "long": 8.9400589
+  },
+  {
+    "name": "Kaduna",
+    "slug": "kaduna",
+    "stateCode": "KD",
+    "lat": 10.516667,
+    "long": 7.433332999999999
+  },
+  {
+    "name": "Kano",
+    "slug": "kano",
+    "stateCode": "KN",
+    "lat": 12.0021794,
+    "long": 8.591956099999999
+  },
+  {
+    "name": "Katsina",
+    "slug": "katsina",
+    "stateCode": "KT",
+    "lat": 12.983333,
+    "long": 7.6
+  },
+  {
+    "name": "Kebbi",
+    "slug": "kebbi",
+    "stateCode": "KB",
+    "lat": 11.6781241,
+    "long": 4.0695454
+  },
+  {
+    "name": "Kogi",
+    "slug": "kogi",
+    "stateCode": "KO",
+    "lat": 7.561891,
+    "long": 6.5783387
+  },
+  {
+    "name": "Kwara",
+    "slug": "kwara",
+    "stateCode": "KW",
+    "lat": 8.9847995,
+    "long": 4.5624426
+  },
+  { "name": "Lagos", "slug": "lagos", "stateCode": "LA" },
+  {
+    "name": "Nasarawa",
+    "slug": "nasarawa",
+    "stateCode": "NA",
+    "lat": 8.5705151,
+    "long": 8.3088441
+  },
+  {
+    "name": "Niger",
+    "slug": "niger",
+    "stateCode": "NI",
+    "lat": 9.081999,
+    "long": 8.675277
+  },
+  {
+    "name": "Ogun",
+    "slug": "ogun",
+    "stateCode": "OG",
+    "lat": 6.9098333,
+    "long": 3.2583626
+  },
+  {
+    "name": "Ondo",
+    "slug": "ondo",
+    "stateCode": "ON",
+    "lat": 7.083333,
+    "long": 4.833333
+  },
+  {
+    "name": "Osun",
+    "slug": "osun",
+    "stateCode": "OS",
+    "lat": 7.5875843,
+    "long": 4.5624426
+  },
+  {
+    "name": "Oyo",
+    "slug": "oyo",
+    "stateCode": "OY",
+    "lat": 7.85,
+    "long": 3.933
+  },
+  {
+    "name": "Plateau",
+    "slug": "plateau",
+    "stateCode": "PL",
+    "lat": 9.2350817,
+    "long": 9.7232673
+  },
+  {
+    "name": "Rivers",
+    "slug": "rivers",
+    "stateCode": "RI",
+    "lat": 4.8580767,
+    "long": 6.920913499999999
+  },
+  {
+    "name": "Sokoto",
+    "slug": "sokoto",
+    "stateCode": "SO",
+    "lat": 13.066667,
+    "long": 5.233333
+  },
+  {
+    "name": "Taraba",
+    "slug": "taraba",
+    "stateCode": "TA",
+    "lat": 7.9868755,
+    "long": 10.9807003
+  },
+  {
+    "name": "Yobe",
+    "slug": "yobe",
+    "stateCode": "YO",
+    "lat": 12.1871412,
+    "long": 11.7068294
+  },
+  {
+    "name": "Zamfara",
+    "slug": "zamfara",
+    "stateCode": "ZA",
+    "lat": 12.1844159,
+    "long": 6.2375947
+  }
+]

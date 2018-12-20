@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Bomet ",
+    "slug": "bomet",
+    "stateCode": "BC",
+    "lat": -0.78129,
+    "long": 35.34156
+  },
+  {
+    "name": "Bungoma",
+    "slug": "bungoma",
+    "stateCode": "BD",
+    "lat": 0.5695,
+    "long": 34.5584
+  },
+  {
+    "name": "Busia",
+    "slug": "busia",
+    "stateCode": "BC",
+    "lat": 0.4608,
+    "long": 34.1115
+  },
+  {
+    "name": "Elgeyo Marakwet",
+    "slug": "elgeyo-marakwet",
+    "stateCode": "EM",
+    "lat": 0.6726,
+    "long": 35.508
+  },
+  {
+    "name": "Embu",
+    "slug": "embu",
+    "stateCode": "EC",
+    "lat": -0.53112,
+    "long": 37.45061
+  },
+  {
+    "name": "Garissa",
+    "slug": "garissa",
+    "stateCode": "GC",
+    "lat": -0.45275,
+    "long": 39.64601
+  },
+  {
+    "name": "Homa Bay",
+    "slug": "homa-bay",
+    "stateCode": "WC",
+    "lat": -0.52731,
+    "long": 34.45714
+  },
+  {
+    "name": "Isiolo",
+    "slug": "isiolo",
+    "stateCode": "IC",
+    "lat": 0.35462,
+    "long": 37.58218
+  },
+  {
+    "name": "Kajiado",
+    "slug": "kajiado",
+    "stateCode": "EM",
+    "lat": -1.85238,
+    "long": 36.77683
+  },
+  {
+    "name": "Kakamega",
+    "slug": "kakamega",
+    "stateCode": "KC",
+    "lat": 0.2827,
+    "long": 34.7519
+  },
+  {
+    "name": "Kericho",
+    "slug": "kericho",
+    "stateCode": "KC",
+    "lat": -0.36774,
+    "long": 35.28314
+  },
+  {
+    "name": "Kiambu",
+    "slug": "kiambu",
+    "stateCode": "KC",
+    "lat": -1.16667,
+    "long": 36.83333
+  },
+  {
+    "name": "Kilifi",
+    "slug": "kilifi",
+    "stateCode": "KC",
+    "lat": -3.63045,
+    "long": 39.84992
+  },
+  {
+    "name": "Kirinyaga",
+    "slug": "kirinyaga",
+    "stateCode": "KC",
+    "lat": -0.49887,
+    "long": 37.28031
+  },
+  {
+    "name": "Kisii",
+    "slug": "kisii",
+    "stateCode": "WC",
+    "lat": -0.68174,
+    "long": 34.76666
+  },
+  {
+    "name": "Kisumu",
+    "slug": "kisumu",
+    "stateCode": "KC",
+    "lat": -0.10221,
+    "long": 34.76171
+  },
+  {
+    "name": "Kitui",
+    "slug": "kitui",
+    "stateCode": "KC",
+    "lat": -1.36696,
+    "long": 38.01055
+  },
+  {
+    "name": "Kwale",
+    "slug": "kwale",
+    "stateCode": "KC",
+    "lat": -4.17375,
+    "long": 39.45206
+  },
+  {
+    "name": "Laikipia",
+    "slug": "laikipia",
+    "stateCode": "LC",
+    "lat": 0.397,
+    "long": 37.1588
+  },
+  {
+    "name": "Lamu",
+    "slug": "lamu",
+    "stateCode": "LC",
+    "lat": -2.27169,
+    "long": 40.90201
+  },
+  {
+    "name": "Machakos",
+    "slug": "machakos",
+    "stateCode": "MC",
+    "lat": -1.51667,
+    "long": 37.26667
+  },
+  {
+    "name": "Makueni",
+    "slug": "makueni",
+    "stateCode": "MC",
+    "lat": -1.80409,
+    "long": 37.62034
+  },
+  {
+    "name": "Mandera",
+    "slug": "mandera",
+    "stateCode": "MC",
+    "lat": 3.93726,
+    "long": 41.85688
+  },
+  {
+    "name": "Marsabit",
+    "slug": "marsabit",
+    "stateCode": "MC",
+    "lat": 2.32839,
+    "long": 37.98986
+  },
+  {
+    "name": "Meru",
+    "slug": "meru",
+    "stateCode": "MC",
+    "lat": 0.04626,
+    "long": 37.65587
+  },
+  {
+    "name": "Migori",
+    "slug": "migori",
+    "stateCode": "MC",
+    "lat": -1.06343,
+    "long": 34.47313
+  },
+  {
+    "name": "Mombasa",
+    "slug": "mombasa",
+    "stateCode": "MC",
+    "lat": -4.05466,
+    "long": 39.66359
+  },
+  {
+    "name": "Moyale",
+    "slug": "moyale",
+    "stateCode": "TN",
+    "lat": 3.5216,
+    "long": 39.05472
+  },
+  {
+    "name": "Muranga",
+    "slug": "muranga",
+    "stateCode": "MD",
+    "lat": -0.71667,
+    "long": 37.15
+  },
+  {
+    "name": "Nairobi",
+    "slug": "nairobi",
+    "stateCode": "NC",
+    "lat": -1.28333,
+    "long": 36.81667
+  },
+  {
+    "name": "Nakuru",
+    "slug": "nakuru",
+    "stateCode": "NC",
+    "lat": -0.28333,
+    "long": 36.06667
+  },
+  {
+    "name": "Nandi",
+    "slug": "nandi",
+    "stateCode": "NC",
+    "lat": 0.1036,
+    "long": 35.1777
+  },
+  {
+    "name": "Narok",
+    "slug": "narok",
+    "stateCode": "NC",
+    "lat": -1.07829,
+    "long": 35.86012
+  },
+  {
+    "name": "Nyamira",
+    "slug": "nyamira",
+    "stateCode": "NC",
+    "lat": -0.648,
+    "long": 34.967
+  },
+  {
+    "name": "Nyandarua",
+    "slug": "nyandarua",
+    "stateCode": "ND",
+    "lat": -0.3994,
+    "long": 36.4895
+  },
+  {
+    "name": "Nyeri",
+    "slug": "nyeri",
+    "stateCode": "NC",
+    "lat": -0.42013,
+    "long": 36.94759
+  },
+  {
+    "name": "Rift Valley",
+    "slug": "rift-valley",
+    "stateCode": "RV",
+    "lat": 0.06,
+    "long": 36.06
+  },
+  {
+    "name": "Samburu",
+    "slug": "samburu",
+    "stateCode": "SC",
+    "lat": 1.2571,
+    "long": 37.1768
+  },
+  {
+    "name": "Siaya",
+    "slug": "siaya",
+    "stateCode": "KC",
+    "lat": 0.06116,
+    "long": 34.28823
+  },
+  {
+    "name": "Taita-Taveta",
+    "slug": "taita-taveta",
+    "stateCode": "TT",
+    "lat": -3.39879,
+    "long": 37.68336
+  },
+  {
+    "name": "Tana River",
+    "slug": "tana-river",
+    "stateCode": "TR",
+    "lat": 1.5868,
+    "long": 39.4424
+  },
+  {
+    "name": "Tharaka-Nithi",
+    "slug": "tharaka-nithi",
+    "stateCode": "TN",
+    "lat": 0.157,
+    "long": 37.9782
+  },
+  {
+    "name": "Trans-Nzoia",
+    "slug": "trans-nzoia",
+    "stateCode": "TN",
+    "lat": 1.0219,
+    "long": 35.0015
+  },
+  {
+    "name": "Turkana",
+    "slug": "turkana",
+    "stateCode": "TC",
+    "lat": 3.1184,
+    "long": 35.5988
+  },
+  {
+    "name": "Uasin Gishu",
+    "slug": "uasin-gishu",
+    "stateCode": "UG",
+    "lat": 0.5143,
+    "long": 35.2697
+  },
+  {
+    "name": "Vihiga",
+    "slug": "vihiga",
+    "stateCode": "VC",
+    "lat": 0.0816,
+    "long": 34.7229
+  },
+  {
+    "name": "Wajir",
+    "slug": "wajir",
+    "stateCode": "WC",
+    "lat": 1.7471,
+    "long": 40.05732
+  },
+  {
+    "name": "West Pokot",
+    "slug": "west-pokot",
+    "stateCode": "WP",
+    "lat": 1.5924,
+    "long": 35.2854
+  }
+]

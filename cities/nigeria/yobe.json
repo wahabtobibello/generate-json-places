@@ -1,0 +1,20 @@
+[
+  { "name": "Bade", "slug": "bade" },
+  { "name": "Bursari", "slug": "bursari" },
+  { "name": "Damaturu", "slug": "damaturu" },
+  { "name": "Fika", "slug": "fika" },
+  { "name": "Fune", "slug": "fune" },
+  { "name": "Gashua", "slug": "gashua" },
+  { "name": "Geidam", "slug": "geidam" },
+  { "name": "Gujba", "slug": "gujba" },
+  { "name": "Gulani", "slug": "gulani" },
+  { "name": "Jakusko", "slug": "jakusko" },
+  { "name": "Karasuwa", "slug": "karasuwa" },
+  { "name": "Machina", "slug": "machina" },
+  { "name": "Nangere", "slug": "nangere" },
+  { "name": "Nguru", "slug": "nguru" },
+  { "name": "Potiskum", "slug": "potiskum" },
+  { "name": "Tarmuwa", "slug": "tarmuwa" },
+  { "name": "Yunusari", "slug": "yunusari" },
+  { "name": "Yusufari", "slug": "yusufari" }
+]

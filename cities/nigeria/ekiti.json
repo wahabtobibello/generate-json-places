@@ -1,0 +1,17 @@
+[
+  { "name": "Ado-ekiti", "slug": "ado-ekiti" },
+  { "name": "Aiyekire(Gbonyin)", "slug": "aiyekiregbonyin" },
+  { "name": "Efon", "slug": "efon" },
+  { "name": "Ekiti East", "slug": "ekiti-east" },
+  { "name": "Ekiti South-West", "slug": "ekiti-south-west" },
+  { "name": "Ekiti West", "slug": "ekiti-west" },
+  { "name": "Emure", "slug": "emure" },
+  { "name": "Ido-Osi", "slug": "ido-osi" },
+  { "name": "Ijero", "slug": "ijero" },
+  { "name": "Ikere", "slug": "ikere" },
+  { "name": "Ikole", "slug": "ikole" },
+  { "name": "Ilejemeji", "slug": "ilejemeji" },
+  { "name": "Irepodun/Ifelodun", "slug": "irepodunifelodun" },
+  { "name": "Moba", "slug": "moba" },
+  { "name": "Oye", "slug": "oye" }
+]

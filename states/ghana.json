@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ashanti ",
+    "slug": "ashanti",
+    "stateCode": "AH",
+    "lat": -1.659986818,
+    "long": 6.190408955
+  },
+  {
+    "name": "Brong-Ahafo",
+    "slug": "brong-ahafo",
+    "stateCode": "BA",
+    "lat": 7.335998991,
+    "long": -2.336003416
+  },
+  {
+    "name": "Central",
+    "slug": "central",
+    "stateCode": "CP",
+    "lat": 5.350434386,
+    "long": -0.630049684
+  },
+  {
+    "name": "Eastern ",
+    "slug": "eastern",
+    "stateCode": "EP",
+    "lat": 6.550464497,
+    "long": -0.780014691
+  },
+  {
+    "name": "Greater Accra",
+    "slug": "greater-accra",
+    "stateCode": "GA",
+    "lat": 5.640365009,
+    "long": 0.010014606
+  },
+  {
+    "name": "Northern",
+    "slug": "northern",
+    "stateCode": "NP",
+    "lat": 9.400419738,
+    "long": -0.83998519
+  },
+  {
+    "name": "Upper East",
+    "slug": "upper-east",
+    "stateCode": "NP",
+    "lat": 10.79038658,
+    "long": -0.84998458
+  },
+  {
+    "name": "Upper West",
+    "slug": "upper-west",
+    "stateCode": "UW",
+    "lat": 10.06040529,
+    "long": -2.500013063
+  },
+  {
+    "name": "Volta",
+    "slug": "volta",
+    "stateCode": "TV",
+    "lat": 6.600409769,
+    "long": 0.46998653
+  },
+  {
+    "name": "Western",
+    "slug": "western",
+    "stateCode": "WP",
+    "lat": 4.943275776,
+    "long": -1.704015138
+  }
+]

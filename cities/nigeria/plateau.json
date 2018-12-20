@@ -1,0 +1,20 @@
+[
+  { "name": "Barkin Ladi", "slug": "barkin-ladi" },
+  { "name": "Bassa", "slug": "bassa" },
+  { "name": "Bokkos", "slug": "bokkos" },
+  { "name": "Jos", "slug": "jos" },
+  { "name": "Jos East", "slug": "jos-east" },
+  { "name": "Jos North", "slug": "jos-north" },
+  { "name": "Jos South", "slug": "jos-south" },
+  { "name": "Kanam", "slug": "kanam" },
+  { "name": "Kanke", "slug": "kanke" },
+  { "name": "Langtang North", "slug": "langtang-north" },
+  { "name": "Langtang South", "slug": "langtang-south" },
+  { "name": "Mangu", "slug": "mangu" },
+  { "name": "Mikang", "slug": "mikang" },
+  { "name": "Pankshin", "slug": "pankshin" },
+  { "name": "Qua'an Pan", "slug": "quaan-pan" },
+  { "name": "Riyom", "slug": "riyom" },
+  { "name": "Shendam", "slug": "shendam" },
+  { "name": "Wase", "slug": "wase" }
+]

@@ -1,0 +1,14 @@
+[
+  { "name": "Abakaliki", "slug": "abakaliki" },
+  { "name": "Afikpo North", "slug": "afikpo-north" },
+  { "name": "Afikpo South(Edda)", "slug": "afikpo-southedda" },
+  { "name": "Ezza North", "slug": "ezza-north" },
+  { "name": "Ezza South", "slug": "ezza-south" },
+  { "name": "Ikwo", "slug": "ikwo" },
+  { "name": "Ishielu", "slug": "ishielu" },
+  { "name": "Ivo", "slug": "ivo" },
+  { "name": "Izzi", "slug": "izzi" },
+  { "name": "Ohaozara", "slug": "ohaozara" },
+  { "name": "Ohaukwu", "slug": "ohaukwu" },
+  { "name": "Onicha", "slug": "onicha" }
+]

@@ -1,0 +1,21 @@
+[
+  { "name": "Alkaleri", "slug": "alkaleri" },
+  { "name": "Bauchi", "slug": "bauchi" },
+  { "name": "Bogoro", "slug": "bogoro" },
+  { "name": "Damban", "slug": "damban" },
+  { "name": "Darazo", "slug": "darazo" },
+  { "name": "Dass", "slug": "dass" },
+  { "name": "Gamawa", "slug": "gamawa" },
+  { "name": "Ganjuwa", "slug": "ganjuwa" },
+  { "name": "Giade", "slug": "giade" },
+  { "name": "Itas/Gadau", "slug": "itasgadau" },
+  { "name": "Jama'are", "slug": "jamaare" },
+  { "name": "Katagum", "slug": "katagum" },
+  { "name": "Kirfi", "slug": "kirfi" },
+  { "name": "Misau", "slug": "misau" },
+  { "name": "Ningi", "slug": "ningi" },
+  { "name": "Tafawa Balewa", "slug": "tafawa-balewa" },
+  { "name": "Toro", "slug": "toro" },
+  { "name": "Warji", "slug": "warji" },
+  { "name": "Zaki", "slug": "zaki" }
+]

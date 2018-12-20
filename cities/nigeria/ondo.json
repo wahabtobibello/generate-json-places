@@ -1,0 +1,23 @@
+[
+  { "name": "Akoko North-East", "slug": "akoko-north-east" },
+  { "name": "Akoko North-West", "slug": "akoko-north-west" },
+  { "name": "Akoko South-East", "slug": "akoko-south-east" },
+  { "name": "Akoko South-West", "slug": "akoko-south-west" },
+  { "name": "Akure", "slug": "akure" },
+  { "name": "Akure North", "slug": "akure-north" },
+  { "name": "Akure South", "slug": "akure-south" },
+  { "name": "Ese Odo", "slug": "ese-odo" },
+  { "name": "Idanre", "slug": "idanre" },
+  { "name": "Ifedore", "slug": "ifedore" },
+  { "name": "Ikare", "slug": "ikare" },
+  { "name": "Ilaje", "slug": "ilaje" },
+  { "name": "Ile Oluji/Okeigbo", "slug": "ile-olujiokeigbo" },
+  { "name": "Irele", "slug": "irele" },
+  { "name": "Odigbo", "slug": "odigbo" },
+  { "name": "Okitipupa", "slug": "okitipupa" },
+  { "name": "Ondo", "slug": "ondo" },
+  { "name": "Ondo East", "slug": "ondo-east" },
+  { "name": "Ondo West", "slug": "ondo-west" },
+  { "name": "Ose", "slug": "ose" },
+  { "name": "Owo", "slug": "owo" }
+]

@@ -1,0 +1,21 @@
+[
+  { "name": "Akoko-Edo", "slug": "akoko-edo" },
+  { "name": "Auchi", "slug": "auchi" },
+  { "name": "Benin", "slug": "benin" },
+  { "name": "Egor", "slug": "egor" },
+  { "name": "Esan Central", "slug": "esan-central" },
+  { "name": "Esan North-East", "slug": "esan-north-east" },
+  { "name": "Esan South-East", "slug": "esan-south-east" },
+  { "name": "Esan West", "slug": "esan-west" },
+  { "name": "Etsako Central", "slug": "etsako-central" },
+  { "name": "Etsako East", "slug": "etsako-east" },
+  { "name": "Etsako West", "slug": "etsako-west" },
+  { "name": "Igueben", "slug": "igueben" },
+  { "name": "Ikpoba-Okha", "slug": "ikpoba-okha" },
+  { "name": "Oredo", "slug": "oredo" },
+  { "name": "Orhionmwon", "slug": "orhionmwon" },
+  { "name": "Ovia North-East", "slug": "ovia-north-east" },
+  { "name": "Ovia South-West", "slug": "ovia-south-west" },
+  { "name": "Owan East", "slug": "owan-east" },
+  { "name": "Owan West", "slug": "owan-west" }
+]

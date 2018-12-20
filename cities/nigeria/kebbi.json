@@ -1,0 +1,23 @@
+[
+  { "name": "Aleiro", "slug": "aleiro" },
+  { "name": "Arewa Dandi", "slug": "arewa-dandi" },
+  { "name": "Argungu", "slug": "argungu" },
+  { "name": "Augie", "slug": "augie" },
+  { "name": "Bagudo", "slug": "bagudo" },
+  { "name": "Birnin-Kebbi", "slug": "birnin-kebbi" },
+  { "name": "Bunza", "slug": "bunza" },
+  { "name": "Dandi", "slug": "dandi" },
+  { "name": "Danko/Wasagu", "slug": "dankowasagu" },
+  { "name": "Fakai", "slug": "fakai" },
+  { "name": "Gwandu", "slug": "gwandu" },
+  { "name": "Jega", "slug": "jega" },
+  { "name": "Kalgo", "slug": "kalgo" },
+  { "name": "Koko/Besse", "slug": "kokobesse" },
+  { "name": "Maiyawa", "slug": "maiyawa" },
+  { "name": "Ngaski", "slug": "ngaski" },
+  { "name": "Sakaba", "slug": "sakaba" },
+  { "name": "Shanga", "slug": "shanga" },
+  { "name": "Suru", "slug": "suru" },
+  { "name": "Yauri", "slug": "yauri" },
+  { "name": "Zuru", "slug": "zuru" }
+]

@@ -1,0 +1,16 @@
+[
+  { "name": "Aba", "slug": "aba" },
+  { "name": "Aba South", "slug": "aba-south" },
+  { "name": "Arochukwu", "slug": "arochukwu" },
+  { "name": "Bende", "slug": "bende" },
+  { "name": "Isiala Ngwa", "slug": "isiala-ngwa" },
+  { "name": "Isiala Ngwa North LGA", "slug": "isiala-ngwa-north-lga" },
+  { "name": "Isiala Ngwa South", "slug": "isiala-ngwa-south" },
+  { "name": "Isuikwuato", "slug": "isuikwuato" },
+  { "name": "Obi-Ngwa", "slug": "obi-ngwa" },
+  { "name": "Ohafia", "slug": "ohafia" },
+  { "name": "Osisioma North", "slug": "osisioma-north" },
+  { "name": "Ukwa West", "slug": "ukwa-west" },
+  { "name": "Umuahia South LGA", "slug": "umuahia-south-lga" },
+  { "name": "Umunneochi LGA", "slug": "umunneochi-lga" }
+]

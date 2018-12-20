@@ -1,0 +1,17 @@
+[
+  { "name": "Bali", "slug": "bali" },
+  { "name": "Donga", "slug": "donga" },
+  { "name": "Gashaka", "slug": "gashaka" },
+  { "name": "Gassol", "slug": "gassol" },
+  { "name": "Ibi", "slug": "ibi" },
+  { "name": "Jalingo", "slug": "jalingo" },
+  { "name": "Karim Lamido", "slug": "karim-lamido" },
+  { "name": "Kurmi", "slug": "kurmi" },
+  { "name": "Lau", "slug": "lau" },
+  { "name": "Sardauna", "slug": "sardauna" },
+  { "name": "Takum", "slug": "takum" },
+  { "name": "Ussa", "slug": "ussa" },
+  { "name": "Wukari", "slug": "wukari" },
+  { "name": "Yorro", "slug": "yorro" },
+  { "name": "Zing", "slug": "zing" }
+]

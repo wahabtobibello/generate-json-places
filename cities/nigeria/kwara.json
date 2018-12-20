@@ -1,0 +1,18 @@
+[
+  { "name": "Asa", "slug": "asa" },
+  { "name": "Baruten", "slug": "baruten" },
+  { "name": "Edu", "slug": "edu" },
+  { "name": "Ekiti", "slug": "ekiti" },
+  { "name": "Ifelodun", "slug": "ifelodun" },
+  { "name": "Ilorin", "slug": "ilorin" },
+  { "name": "Ilorin East", "slug": "ilorin-east" },
+  { "name": "Ilorin South", "slug": "ilorin-south" },
+  { "name": "Ilorin West", "slug": "ilorin-west" },
+  { "name": "Irepodun", "slug": "irepodun" },
+  { "name": "Isin", "slug": "isin" },
+  { "name": "Kaiama", "slug": "kaiama" },
+  { "name": "Moro", "slug": "moro" },
+  { "name": "Offa", "slug": "offa" },
+  { "name": "Oke Ero", "slug": "oke-ero" },
+  { "name": "Oyun", "slug": "oyun" }
+]

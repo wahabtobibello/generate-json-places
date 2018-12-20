@@ -1,0 +1,21 @@
+[
+  { "name": "Abi", "slug": "abi" },
+  { "name": "Akamkpa", "slug": "akamkpa" },
+  { "name": "Akpabuyo", "slug": "akpabuyo" },
+  { "name": "Bakassi", "slug": "bakassi" },
+  { "name": "Bekwarra", "slug": "bekwarra" },
+  { "name": "Biase", "slug": "biase" },
+  { "name": "Boki", "slug": "boki" },
+  { "name": "Calabar", "slug": "calabar" },
+  { "name": "Calabar Municipal", "slug": "calabar-municipal" },
+  { "name": "Calabar South", "slug": "calabar-south" },
+  { "name": "Etung", "slug": "etung" },
+  { "name": "Ikom", "slug": "ikom" },
+  { "name": "Obanliku", "slug": "obanliku" },
+  { "name": "Obubra", "slug": "obubra" },
+  { "name": "Obudu", "slug": "obudu" },
+  { "name": "Odukpani", "slug": "odukpani" },
+  { "name": "Ogoja", "slug": "ogoja" },
+  { "name": "Yakuur", "slug": "yakuur" },
+  { "name": "Yala", "slug": "yala" }
+]

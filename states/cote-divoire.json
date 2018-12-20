@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Agneby",
+    "slug": "agneby",
+    "stateCode": "AS",
+    "lat": 5.940346699,
+    "long": -4.280033611
+  },
+  {
+    "name": "Bafing",
+    "slug": "bafing",
+    "stateCode": "BA",
+    "lat": 8.280000029,
+    "long": -7.684001549
+  },
+  {
+    "name": "Bas Sassandra",
+    "slug": "bas-sassandra",
+    "stateCode": "BS",
+    "lat": 5.790407531,
+    "long": -6.610020591
+  },
+  {
+    "name": "Denguele",
+    "slug": "denguele",
+    "stateCode": "DG",
+    "lat": 9.510413024,
+    "long": -7.580013063
+  },
+  {
+    "name": "Dix Huit Montagnes",
+    "slug": "dix-huit-montagnes",
+    "stateCode": "DM",
+    "lat": 7.400412617,
+    "long": -7.549989056
+  },
+  {
+    "name": "Fromager",
+    "slug": "fromager",
+    "stateCode": "FM",
+    "lat": 6.150411396,
+    "long": -5.879987632
+  },
+  {
+    "name": "Haut Sassandra",
+    "slug": "haut-sassandra",
+    "stateCode": "HS",
+    "lat": 6.889978657,
+    "long": -6.450004518
+  },
+  {
+    "name": "Lacs",
+    "slug": "lacs",
+    "stateCode": "LS",
+    "lat": 6.552000132,
+    "long": -5.019002394
+  },
+  {
+    "name": "Lagunes",
+    "slug": "lagunes",
+    "stateCode": "LG",
+    "lat": 5.200391865,
+    "long": -3.749988445
+  },
+  {
+    "name": "Marahoue",
+    "slug": "marahoue",
+    "stateCode": "MH",
+    "lat": 6.977997104,
+    "long": -5.748002428
+  },
+  {
+    "name": "Moyen Cavally",
+    "slug": "moyen-cavally",
+    "stateCode": "MC",
+    "lat": 6.550464497,
+    "long": -7.48996688
+  },
+  {
+    "name": "Moyen Comoe",
+    "slug": "moyen-comoe",
+    "stateCode": "MC",
+    "lat": 6.730375996,
+    "long": -3.490004315
+  },
+  {
+    "name": "N'zi Comoe",
+    "slug": "nzi-comoe",
+    "stateCode": "NC",
+    "lat": 6.650458393,
+    "long": -4.710007366
+  },
+  {
+    "name": "Savanes",
+    "slug": "savanes",
+    "stateCode": "SV",
+    "lat": 9.600407531,
+    "long": -5.200029136
+  },
+  {
+    "name": "Sud Bandama",
+    "slug": "sud-bandama",
+    "stateCode": "SB",
+    "lat": 5.839002037,
+    "long": -5.360003483
+  },
+  {
+    "name": "Sud Comoe",
+    "slug": "sud-comoe",
+    "stateCode": "SC",
+    "lat": 5.466699052,
+    "long": -3.20000353
+  },
+  {
+    "name": "Vallee Du Bandama",
+    "slug": "vallee-du-bandama",
+    "stateCode": "VB",
+    "lat": 7.689981505,
+    "long": -5.030013673
+  },
+  {
+    "name": "Worodougou",
+    "slug": "worodougou",
+    "stateCode": "WR",
+    "lat": 7.950404886,
+    "long": -6.670016929
+  },
+  {
+    "name": "Zanzan",
+    "slug": "zanzan",
+    "stateCode": "WR",
+    "lat": 8.030425841,
+    "long": -2.800020591
+  }
+]

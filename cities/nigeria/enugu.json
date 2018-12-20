@@ -1,0 +1,22 @@
+[
+  { "name": "Aninri", "slug": "aninri" },
+  { "name": "Awgu", "slug": "awgu" },
+  { "name": "Ekulu", "slug": "ekulu" },
+  { "name": "Enugu", "slug": "enugu" },
+  { "name": "Enugu East", "slug": "enugu-east" },
+  { "name": "Enugu North", "slug": "enugu-north" },
+  { "name": "Enugu South", "slug": "enugu-south" },
+  { "name": "Ezeagu", "slug": "ezeagu" },
+  { "name": "Igbo Etiti", "slug": "igbo-etiti" },
+  { "name": "Igbo Eze North", "slug": "igbo-eze-north" },
+  { "name": "Igbo Eze South", "slug": "igbo-eze-south" },
+  { "name": "Isi Uzo", "slug": "isi-uzo" },
+  { "name": "Nkanu East", "slug": "nkanu-east" },
+  { "name": "Nkanu West", "slug": "nkanu-west" },
+  { "name": "Nsukka", "slug": "nsukka" },
+  { "name": "Oji River", "slug": "oji-river" },
+  { "name": "Udenu", "slug": "udenu" },
+  { "name": "Udi", "slug": "udi" },
+  { "name": "Uhunmwonde", "slug": "uhunmwonde" },
+  { "name": "Uzo-Uwani", "slug": "uzo-uwani" }
+]

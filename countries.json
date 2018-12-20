@@ -1,0 +1,1206 @@
+[
+  {
+    "slug": "afghanistan",
+    "name": "Afghanistan",
+    "isoCode": "AF",
+    "countryCode": "+93"
+  },
+  {
+    "slug": "albania",
+    "name": "Albania",
+    "isoCode": "AL",
+    "countryCode": "+355"
+  },
+  {
+    "slug": "algeria",
+    "name": "Algeria",
+    "isoCode": "DZ",
+    "countryCode": "+213"
+  },
+  {
+    "slug": "americansamoa",
+    "name": "AmericanSamoa",
+    "isoCode": "AS",
+    "countryCode": "+1 684"
+  },
+  {
+    "slug": "andorra",
+    "name": "Andorra",
+    "isoCode": "AD",
+    "countryCode": "+376"
+  },
+  {
+    "slug": "angola",
+    "name": "Angola",
+    "isoCode": "AO",
+    "countryCode": "+244"
+  },
+  {
+    "slug": "anguilla",
+    "name": "Anguilla",
+    "isoCode": "AI",
+    "countryCode": "+1 264"
+  },
+  {
+    "slug": "antigua-and-barbuda",
+    "name": "Antigua and Barbuda",
+    "isoCode": "AG",
+    "countryCode": "+1268"
+  },
+  {
+    "slug": "argentina",
+    "name": "Argentina",
+    "isoCode": "AR",
+    "countryCode": "+54"
+  },
+  {
+    "slug": "armenia",
+    "name": "Armenia",
+    "isoCode": "AM",
+    "countryCode": "+374"
+  },
+  { "slug": "aruba", "name": "Aruba", "isoCode": "AW", "countryCode": "+297" },
+  {
+    "slug": "australia",
+    "name": "Australia",
+    "isoCode": "AU",
+    "countryCode": "+61"
+  },
+  {
+    "slug": "austria",
+    "name": "Austria",
+    "isoCode": "AT",
+    "countryCode": "+43"
+  },
+  {
+    "slug": "azerbaijan",
+    "name": "Azerbaijan",
+    "isoCode": "AZ",
+    "countryCode": "+994"
+  },
+  {
+    "slug": "bahamas",
+    "name": "Bahamas",
+    "isoCode": "BS",
+    "countryCode": "+1 242"
+  },
+  {
+    "slug": "bahrain",
+    "name": "Bahrain",
+    "isoCode": "BH",
+    "countryCode": "+973"
+  },
+  {
+    "slug": "bangladesh",
+    "name": "Bangladesh",
+    "isoCode": "BD",
+    "countryCode": "+880"
+  },
+  {
+    "slug": "barbados",
+    "name": "Barbados",
+    "isoCode": "BB",
+    "countryCode": "+1 246"
+  },
+  {
+    "slug": "belarus",
+    "name": "Belarus",
+    "isoCode": "BY",
+    "countryCode": "+375"
+  },
+  {
+    "slug": "belgium",
+    "name": "Belgium",
+    "isoCode": "BE",
+    "countryCode": "+32"
+  },
+  {
+    "slug": "belize",
+    "name": "Belize",
+    "isoCode": "BZ",
+    "countryCode": "+501"
+  },
+  { "slug": "benin", "name": "Benin", "isoCode": "BJ", "countryCode": "+229" },
+  {
+    "slug": "bermuda",
+    "name": "Bermuda",
+    "isoCode": "BM",
+    "countryCode": "+1 441"
+  },
+  {
+    "slug": "bhutan",
+    "name": "Bhutan",
+    "isoCode": "BT",
+    "countryCode": "+975"
+  },
+  {
+    "slug": "bolivia-plurinational-state-of",
+    "name": "Bolivia, Plurinational State of",
+    "isoCode": "BO",
+    "countryCode": "+591"
+  },
+  {
+    "slug": "bosnia-and-herzegovina",
+    "name": "Bosnia and Herzegovina",
+    "isoCode": "BA",
+    "countryCode": "+387"
+  },
+  {
+    "slug": "botswana",
+    "name": "Botswana",
+    "isoCode": "BW",
+    "countryCode": "+267"
+  },
+  { "slug": "brazil", "name": "Brazil", "isoCode": "BR", "countryCode": "+55" },
+  {
+    "slug": "british-indian-ocean-territory",
+    "name": "British Indian Ocean Territory",
+    "isoCode": "IO",
+    "countryCode": "+246"
+  },
+  {
+    "slug": "brunei-darussalam",
+    "name": "Brunei Darussalam",
+    "isoCode": "BN",
+    "countryCode": "+673"
+  },
+  {
+    "slug": "bulgaria",
+    "name": "Bulgaria",
+    "isoCode": "BG",
+    "countryCode": "+359"
+  },
+  {
+    "slug": "burkina-faso",
+    "name": "Burkina Faso",
+    "isoCode": "BF",
+    "countryCode": "+226"
+  },
+  {
+    "slug": "burundi",
+    "name": "Burundi",
+    "isoCode": "BI",
+    "countryCode": "+257"
+  },
+  {
+    "slug": "cambodia",
+    "name": "Cambodia",
+    "isoCode": "KH",
+    "countryCode": "+855"
+  },
+  {
+    "slug": "cameroon",
+    "name": "Cameroon",
+    "isoCode": "CM",
+    "countryCode": "+237"
+  },
+  { "slug": "canada", "name": "Canada", "isoCode": "CA", "countryCode": "+1" },
+  {
+    "slug": "cape-verde",
+    "name": "Cape Verde",
+    "isoCode": "CV",
+    "countryCode": "+238"
+  },
+  {
+    "slug": "cayman-islands",
+    "name": "Cayman Islands",
+    "isoCode": "KY",
+    "countryCode": "+ 345"
+  },
+  {
+    "slug": "central-african-republic",
+    "name": "Central African Republic",
+    "isoCode": "CF",
+    "countryCode": "+236"
+  },
+  { "slug": "chad", "name": "Chad", "isoCode": "TD", "countryCode": "+235" },
+  { "slug": "chile", "name": "Chile", "isoCode": "CL", "countryCode": "+56" },
+  { "slug": "china", "name": "China", "isoCode": "CN", "countryCode": "+86" },
+  {
+    "slug": "christmas-island",
+    "name": "Christmas Island",
+    "isoCode": "CX",
+    "countryCode": "+61"
+  },
+  {
+    "slug": "cocos-keeling-islands",
+    "name": "Cocos (Keeling) Islands",
+    "isoCode": "CC",
+    "countryCode": "+61"
+  },
+  {
+    "slug": "colombia",
+    "name": "Colombia",
+    "isoCode": "CO",
+    "countryCode": "+57"
+  },
+  {
+    "slug": "comoros",
+    "name": "Comoros",
+    "isoCode": "KM",
+    "countryCode": "+269"
+  },
+  { "slug": "congo", "name": "Congo", "isoCode": "CG", "countryCode": "+242" },
+  {
+    "slug": "congo-the-democratic-republic-of-the",
+    "name": "Congo, The Democratic Republic of the",
+    "isoCode": "CD",
+    "countryCode": "+243"
+  },
+  {
+    "slug": "cook-islands",
+    "name": "Cook Islands",
+    "isoCode": "CK",
+    "countryCode": "+682"
+  },
+  {
+    "slug": "costa-rica",
+    "name": "Costa Rica",
+    "isoCode": "CR",
+    "countryCode": "+506"
+  },
+  {
+    "slug": "cote-divoire",
+    "name": "Cote d'Ivoire",
+    "isoCode": "CI",
+    "countryCode": "+225"
+  },
+  {
+    "slug": "croatia",
+    "name": "Croatia",
+    "isoCode": "HR",
+    "countryCode": "+385"
+  },
+  { "slug": "cuba", "name": "Cuba", "isoCode": "CU", "countryCode": "+53" },
+  {
+    "slug": "cyprus",
+    "name": "Cyprus",
+    "isoCode": "CY",
+    "countryCode": "+537"
+  },
+  {
+    "slug": "czech-republic",
+    "name": "Czech Republic",
+    "isoCode": "CZ",
+    "countryCode": "+420"
+  },
+  {
+    "slug": "denmark",
+    "name": "Denmark",
+    "isoCode": "DK",
+    "countryCode": "+45"
+  },
+  {
+    "slug": "djibouti",
+    "name": "Djibouti",
+    "isoCode": "DJ",
+    "countryCode": "+253"
+  },
+  {
+    "slug": "dominica",
+    "name": "Dominica",
+    "isoCode": "DM",
+    "countryCode": "+1 767"
+  },
+  {
+    "slug": "dominican-republic",
+    "name": "Dominican Republic",
+    "isoCode": "DO",
+    "countryCode": "+1 849"
+  },
+  {
+    "slug": "ecuador",
+    "name": "Ecuador",
+    "isoCode": "EC",
+    "countryCode": "+593"
+  },
+  { "slug": "egypt", "name": "Egypt", "isoCode": "EG", "countryCode": "+20" },
+  {
+    "slug": "el-salvador",
+    "name": "El Salvador",
+    "isoCode": "SV",
+    "countryCode": "+503"
+  },
+  {
+    "slug": "equatorial-guinea",
+    "name": "Equatorial Guinea",
+    "isoCode": "GQ",
+    "countryCode": "+240"
+  },
+  {
+    "slug": "eritrea",
+    "name": "Eritrea",
+    "isoCode": "ER",
+    "countryCode": "+291"
+  },
+  {
+    "slug": "estonia",
+    "name": "Estonia",
+    "isoCode": "EE",
+    "countryCode": "+372"
+  },
+  {
+    "slug": "ethiopia",
+    "name": "Ethiopia",
+    "isoCode": "ET",
+    "countryCode": "+251"
+  },
+  {
+    "slug": "falkland-islands-malvinas",
+    "name": "Falkland Islands (Malvinas)",
+    "isoCode": "FK",
+    "countryCode": "+500"
+  },
+  {
+    "slug": "faroe-islands",
+    "name": "Faroe Islands",
+    "isoCode": "FO",
+    "countryCode": "+298"
+  },
+  { "slug": "fiji", "name": "Fiji", "isoCode": "FJ", "countryCode": "+679" },
+  {
+    "slug": "finland",
+    "name": "Finland",
+    "isoCode": "FI",
+    "countryCode": "+358"
+  },
+  { "slug": "france", "name": "France", "isoCode": "FR", "countryCode": "+33" },
+  {
+    "slug": "french-guiana",
+    "name": "French Guiana",
+    "isoCode": "GF",
+    "countryCode": "+594"
+  },
+  {
+    "slug": "french-polynesia",
+    "name": "French Polynesia",
+    "isoCode": "PF",
+    "countryCode": "+689"
+  },
+  { "slug": "gabon", "name": "Gabon", "isoCode": "GA", "countryCode": "+241" },
+  {
+    "slug": "gambia",
+    "name": "Gambia",
+    "isoCode": "GM",
+    "countryCode": "+220"
+  },
+  {
+    "slug": "georgia",
+    "name": "Georgia",
+    "isoCode": "GE",
+    "countryCode": "+995"
+  },
+  {
+    "slug": "germany",
+    "name": "Germany",
+    "isoCode": "DE",
+    "countryCode": "+49"
+  },
+  { "slug": "ghana", "name": "Ghana", "isoCode": "GH", "countryCode": "+233" },
+  {
+    "slug": "gibraltar",
+    "name": "Gibraltar",
+    "isoCode": "GI",
+    "countryCode": "+350"
+  },
+  { "slug": "greece", "name": "Greece", "isoCode": "GR", "countryCode": "+30" },
+  {
+    "slug": "greenland",
+    "name": "Greenland",
+    "isoCode": "GL",
+    "countryCode": "+299"
+  },
+  {
+    "slug": "grenada",
+    "name": "Grenada",
+    "isoCode": "GD",
+    "countryCode": "+1 473"
+  },
+  {
+    "slug": "guadeloupe",
+    "name": "Guadeloupe",
+    "isoCode": "GP",
+    "countryCode": "+590"
+  },
+  { "slug": "guam", "name": "Guam", "isoCode": "GU", "countryCode": "+1 671" },
+  {
+    "slug": "guatemala",
+    "name": "Guatemala",
+    "isoCode": "GT",
+    "countryCode": "+502"
+  },
+  {
+    "slug": "guernsey",
+    "name": "Guernsey",
+    "isoCode": "GG",
+    "countryCode": "+44"
+  },
+  {
+    "slug": "guinea",
+    "name": "Guinea",
+    "isoCode": "GN",
+    "countryCode": "+224"
+  },
+  {
+    "slug": "guinea-bissau",
+    "name": "Guinea-Bissau",
+    "isoCode": "GW",
+    "countryCode": "+245"
+  },
+  {
+    "slug": "guyana",
+    "name": "Guyana",
+    "isoCode": "GY",
+    "countryCode": "+595"
+  },
+  { "slug": "haiti", "name": "Haiti", "isoCode": "HT", "countryCode": "+509" },
+  {
+    "slug": "holy-see-vatican-city-state",
+    "name": "Holy See (Vatican City State)",
+    "isoCode": "VA",
+    "countryCode": "+379"
+  },
+  {
+    "slug": "honduras",
+    "name": "Honduras",
+    "isoCode": "HN",
+    "countryCode": "+504"
+  },
+  {
+    "slug": "hong-kong",
+    "name": "Hong Kong",
+    "isoCode": "HK",
+    "countryCode": "+852"
+  },
+  {
+    "slug": "hungary",
+    "name": "Hungary",
+    "isoCode": "HU",
+    "countryCode": "+36"
+  },
+  {
+    "slug": "iceland",
+    "name": "Iceland",
+    "isoCode": "IS",
+    "countryCode": "+354"
+  },
+  { "slug": "india", "name": "India", "isoCode": "IN", "countryCode": "+91" },
+  {
+    "slug": "indonesia",
+    "name": "Indonesia",
+    "isoCode": "ID",
+    "countryCode": "+62"
+  },
+  {
+    "slug": "iran-islamic-republic-of",
+    "name": "Iran, Islamic Republic of",
+    "isoCode": "IR",
+    "countryCode": "+98"
+  },
+  { "slug": "iraq", "name": "Iraq", "isoCode": "IQ", "countryCode": "+964" },
+  {
+    "slug": "ireland",
+    "name": "Ireland",
+    "isoCode": "IE",
+    "countryCode": "+353"
+  },
+  {
+    "slug": "isle-of-man",
+    "name": "Isle of Man",
+    "isoCode": "IM",
+    "countryCode": "+44"
+  },
+  {
+    "slug": "israel",
+    "name": "Israel",
+    "isoCode": "IL",
+    "countryCode": "+972"
+  },
+  { "slug": "italy", "name": "Italy", "isoCode": "IT", "countryCode": "+39" },
+  {
+    "slug": "jamaica",
+    "name": "Jamaica",
+    "isoCode": "JM",
+    "countryCode": "+1 876"
+  },
+  { "slug": "japan", "name": "Japan", "isoCode": "JP", "countryCode": "+81" },
+  { "slug": "jersey", "name": "Jersey", "isoCode": "JE", "countryCode": "+44" },
+  {
+    "slug": "jordan",
+    "name": "Jordan",
+    "isoCode": "JO",
+    "countryCode": "+962"
+  },
+  {
+    "slug": "kazakhstan",
+    "name": "Kazakhstan",
+    "isoCode": "KZ",
+    "countryCode": "+7 7"
+  },
+  { "slug": "kenya", "name": "Kenya", "isoCode": "KE", "countryCode": "+254" },
+  {
+    "slug": "kiribati",
+    "name": "Kiribati",
+    "isoCode": "KI",
+    "countryCode": "+686"
+  },
+  {
+    "slug": "korea-democratic-peoples-republic-of",
+    "name": "Korea, Democratic People's Republic of",
+    "isoCode": "KP",
+    "countryCode": "+850"
+  },
+  {
+    "slug": "korea-republic-of",
+    "name": "Korea, Republic of",
+    "isoCode": "KR",
+    "countryCode": "+82"
+  },
+  {
+    "slug": "kuwait",
+    "name": "Kuwait",
+    "isoCode": "KW",
+    "countryCode": "+965"
+  },
+  {
+    "slug": "kyrgyzstan",
+    "name": "Kyrgyzstan",
+    "isoCode": "KG",
+    "countryCode": "+996"
+  },
+  {
+    "slug": "lao-peoples-democratic-republic",
+    "name": "Lao People's Democratic Republic",
+    "isoCode": "LA",
+    "countryCode": "+856"
+  },
+  {
+    "slug": "latvia",
+    "name": "Latvia",
+    "isoCode": "LV",
+    "countryCode": "+371"
+  },
+  {
+    "slug": "lebanon",
+    "name": "Lebanon",
+    "isoCode": "LB",
+    "countryCode": "+961"
+  },
+  {
+    "slug": "lesotho",
+    "name": "Lesotho",
+    "isoCode": "LS",
+    "countryCode": "+266"
+  },
+  {
+    "slug": "liberia",
+    "name": "Liberia",
+    "isoCode": "LR",
+    "countryCode": "+231"
+  },
+  {
+    "slug": "libyan-arab-jamahiriya",
+    "name": "Libyan Arab Jamahiriya",
+    "isoCode": "LY",
+    "countryCode": "+218"
+  },
+  {
+    "slug": "liechtenstein",
+    "name": "Liechtenstein",
+    "isoCode": "LI",
+    "countryCode": "+423"
+  },
+  {
+    "slug": "lithuania",
+    "name": "Lithuania",
+    "isoCode": "LT",
+    "countryCode": "+370"
+  },
+  {
+    "slug": "luxembourg",
+    "name": "Luxembourg",
+    "isoCode": "LU",
+    "countryCode": "+352"
+  },
+  { "slug": "macao", "name": "Macao", "isoCode": "MO", "countryCode": "+853" },
+  {
+    "slug": "macedonia-the-former-yugoslav-republic-of",
+    "name": "Macedonia, The Former Yugoslav Republic of",
+    "isoCode": "MK",
+    "countryCode": "+389"
+  },
+  {
+    "slug": "madagascar",
+    "name": "Madagascar",
+    "isoCode": "MG",
+    "countryCode": "+261"
+  },
+  {
+    "slug": "malawi",
+    "name": "Malawi",
+    "isoCode": "MW",
+    "countryCode": "+265"
+  },
+  {
+    "slug": "malaysia",
+    "name": "Malaysia",
+    "isoCode": "MY",
+    "countryCode": "+60"
+  },
+  {
+    "slug": "maldives",
+    "name": "Maldives",
+    "isoCode": "MV",
+    "countryCode": "+960"
+  },
+  { "slug": "mali", "name": "Mali", "isoCode": "ML", "countryCode": "+223" },
+  { "slug": "malta", "name": "Malta", "isoCode": "MT", "countryCode": "+356" },
+  {
+    "slug": "marshall-islands",
+    "name": "Marshall Islands",
+    "isoCode": "MH",
+    "countryCode": "+692"
+  },
+  {
+    "slug": "martinique",
+    "name": "Martinique",
+    "isoCode": "MQ",
+    "countryCode": "+596"
+  },
+  {
+    "slug": "mauritania",
+    "name": "Mauritania",
+    "isoCode": "MR",
+    "countryCode": "+222"
+  },
+  {
+    "slug": "mauritius",
+    "name": "Mauritius",
+    "isoCode": "MU",
+    "countryCode": "+230"
+  },
+  {
+    "slug": "mayotte",
+    "name": "Mayotte",
+    "isoCode": "YT",
+    "countryCode": "+262"
+  },
+  { "slug": "mexico", "name": "Mexico", "isoCode": "MX", "countryCode": "+52" },
+  {
+    "slug": "micronesia-federated-states-of",
+    "name": "Micronesia, Federated States of",
+    "isoCode": "FM",
+    "countryCode": "+691"
+  },
+  {
+    "slug": "moldova-republic-of",
+    "name": "Moldova, Republic of",
+    "isoCode": "MD",
+    "countryCode": "+373"
+  },
+  {
+    "slug": "monaco",
+    "name": "Monaco",
+    "isoCode": "MC",
+    "countryCode": "+377"
+  },
+  {
+    "slug": "mongolia",
+    "name": "Mongolia",
+    "isoCode": "MN",
+    "countryCode": "+976"
+  },
+  {
+    "slug": "montenegro",
+    "name": "Montenegro",
+    "isoCode": "ME",
+    "countryCode": "+382"
+  },
+  {
+    "slug": "montserrat",
+    "name": "Montserrat",
+    "isoCode": "MS",
+    "countryCode": "+1664"
+  },
+  {
+    "slug": "morocco",
+    "name": "Morocco",
+    "isoCode": "MA",
+    "countryCode": "+212"
+  },
+  {
+    "slug": "mozambique",
+    "name": "Mozambique",
+    "isoCode": "MZ",
+    "countryCode": "+258"
+  },
+  {
+    "slug": "myanmar",
+    "name": "Myanmar",
+    "isoCode": "MM",
+    "countryCode": "+95"
+  },
+  {
+    "slug": "namibia",
+    "name": "Namibia",
+    "isoCode": "NA",
+    "countryCode": "+264"
+  },
+  { "slug": "nauru", "name": "Nauru", "isoCode": "NR", "countryCode": "+674" },
+  { "slug": "nepal", "name": "Nepal", "isoCode": "NP", "countryCode": "+977" },
+  {
+    "slug": "netherlands",
+    "name": "Netherlands",
+    "isoCode": "NL",
+    "countryCode": "+31"
+  },
+  {
+    "slug": "netherlands-antilles",
+    "name": "Netherlands Antilles",
+    "isoCode": "AN",
+    "countryCode": "+599"
+  },
+  {
+    "slug": "new-caledonia",
+    "name": "New Caledonia",
+    "isoCode": "NC",
+    "countryCode": "+687"
+  },
+  {
+    "slug": "new-zealand",
+    "name": "New Zealand",
+    "isoCode": "NZ",
+    "countryCode": "+64"
+  },
+  {
+    "slug": "nicaragua",
+    "name": "Nicaragua",
+    "isoCode": "NI",
+    "countryCode": "+505"
+  },
+  { "slug": "niger", "name": "Niger", "isoCode": "NE", "countryCode": "+227" },
+  {
+    "slug": "nigeria",
+    "name": "Nigeria",
+    "isoCode": "NG",
+    "countryCode": "+234"
+  },
+  { "slug": "niue", "name": "Niue", "isoCode": "NU", "countryCode": "+683" },
+  {
+    "slug": "norfolk-island",
+    "name": "Norfolk Island",
+    "isoCode": "NF",
+    "countryCode": "+672"
+  },
+  {
+    "slug": "northern-mariana-islands",
+    "name": "Northern Mariana Islands",
+    "isoCode": "MP",
+    "countryCode": "+1 670"
+  },
+  { "slug": "norway", "name": "Norway", "isoCode": "NO", "countryCode": "+47" },
+  { "slug": "oman", "name": "Oman", "isoCode": "OM", "countryCode": "+968" },
+  {
+    "slug": "pakistan",
+    "name": "Pakistan",
+    "isoCode": "PK",
+    "countryCode": "+92"
+  },
+  { "slug": "palau", "name": "Palau", "isoCode": "PW", "countryCode": "+680" },
+  {
+    "slug": "palestinian-territory-occupied",
+    "name": "Palestinian Territory, Occupied",
+    "isoCode": "PS",
+    "countryCode": "+970"
+  },
+  {
+    "slug": "panama",
+    "name": "Panama",
+    "isoCode": "PA",
+    "countryCode": "+507"
+  },
+  {
+    "slug": "papua-new-guinea",
+    "name": "Papua New Guinea",
+    "isoCode": "PG",
+    "countryCode": "+675"
+  },
+  {
+    "slug": "paraguay",
+    "name": "Paraguay",
+    "isoCode": "PY",
+    "countryCode": "+595"
+  },
+  { "slug": "peru", "name": "Peru", "isoCode": "PE", "countryCode": "+51" },
+  {
+    "slug": "philippines",
+    "name": "Philippines",
+    "isoCode": "PH",
+    "countryCode": "+63"
+  },
+  {
+    "slug": "pitcairn",
+    "name": "Pitcairn",
+    "isoCode": "PN",
+    "countryCode": "+872"
+  },
+  { "slug": "poland", "name": "Poland", "isoCode": "PL", "countryCode": "+48" },
+  {
+    "slug": "portugal",
+    "name": "Portugal",
+    "isoCode": "PT",
+    "countryCode": "+351"
+  },
+  {
+    "slug": "puerto-rico",
+    "name": "Puerto Rico",
+    "isoCode": "PR",
+    "countryCode": "+1 939"
+  },
+  { "slug": "qatar", "name": "Qatar", "isoCode": "QA", "countryCode": "+974" },
+  {
+    "slug": "romania",
+    "name": "Romania",
+    "isoCode": "RO",
+    "countryCode": "+40"
+  },
+  { "slug": "russia", "name": "Russia", "isoCode": "RU", "countryCode": "+7" },
+  {
+    "slug": "rwanda",
+    "name": "Rwanda",
+    "isoCode": "RW",
+    "countryCode": "+250"
+  },
+  {
+    "slug": "reunion",
+    "name": "Réunion",
+    "isoCode": "RE",
+    "countryCode": "+262"
+  },
+  {
+    "slug": "saint-barthelemy",
+    "name": "Saint Barthélemy",
+    "isoCode": "BL",
+    "countryCode": "+590"
+  },
+  {
+    "slug": "saint-helena-ascension-and-tristan-da-cunha",
+    "name": "Saint Helena, Ascension and Tristan Da Cunha",
+    "isoCode": "SH",
+    "countryCode": "+290"
+  },
+  {
+    "slug": "saint-kitts-and-nevis",
+    "name": "Saint Kitts and Nevis",
+    "isoCode": "KN",
+    "countryCode": "+1 869"
+  },
+  {
+    "slug": "saint-lucia",
+    "name": "Saint Lucia",
+    "isoCode": "LC",
+    "countryCode": "+1 758"
+  },
+  {
+    "slug": "saint-martin",
+    "name": "Saint Martin",
+    "isoCode": "MF",
+    "countryCode": "+590"
+  },
+  {
+    "slug": "saint-pierre-and-miquelon",
+    "name": "Saint Pierre and Miquelon",
+    "isoCode": "PM",
+    "countryCode": "+508"
+  },
+  {
+    "slug": "saint-vincent-and-the-grenadines",
+    "name": "Saint Vincent and the Grenadines",
+    "isoCode": "VC",
+    "countryCode": "+1 784"
+  },
+  { "slug": "samoa", "name": "Samoa", "isoCode": "WS", "countryCode": "+685" },
+  {
+    "slug": "san-marino",
+    "name": "San Marino",
+    "isoCode": "SM",
+    "countryCode": "+378"
+  },
+  {
+    "slug": "sao-tome-and-principe",
+    "name": "Sao Tome and Principe",
+    "isoCode": "ST",
+    "countryCode": "+239"
+  },
+  {
+    "slug": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "isoCode": "SA",
+    "countryCode": "+966"
+  },
+  {
+    "slug": "senegal",
+    "name": "Senegal",
+    "isoCode": "SN",
+    "countryCode": "+221"
+  },
+  {
+    "slug": "serbia",
+    "name": "Serbia",
+    "isoCode": "RS",
+    "countryCode": "+381"
+  },
+  {
+    "slug": "seychelles",
+    "name": "Seychelles",
+    "isoCode": "SC",
+    "countryCode": "+248"
+  },
+  {
+    "slug": "sierra-leone",
+    "name": "Sierra Leone",
+    "isoCode": "SL",
+    "countryCode": "+232"
+  },
+  {
+    "slug": "singapore",
+    "name": "Singapore",
+    "isoCode": "SG",
+    "countryCode": "+65"
+  },
+  {
+    "slug": "slovakia",
+    "name": "Slovakia",
+    "isoCode": "SK",
+    "countryCode": "+421"
+  },
+  {
+    "slug": "slovenia",
+    "name": "Slovenia",
+    "isoCode": "SI",
+    "countryCode": "+386"
+  },
+  {
+    "slug": "solomon-islands",
+    "name": "Solomon Islands",
+    "isoCode": "SB",
+    "countryCode": "+677"
+  },
+  {
+    "slug": "somalia",
+    "name": "Somalia",
+    "isoCode": "SO",
+    "countryCode": "+252"
+  },
+  {
+    "slug": "south-africa",
+    "name": "South Africa",
+    "isoCode": "ZA",
+    "countryCode": "+27"
+  },
+  {
+    "slug": "south-georgia-and-the-south-sandwich-islands",
+    "name": "South Georgia and the South Sandwich Islands",
+    "isoCode": "GS",
+    "countryCode": "+500"
+  },
+  { "slug": "spain", "name": "Spain", "isoCode": "ES", "countryCode": "+34" },
+  {
+    "slug": "sri-lanka",
+    "name": "Sri Lanka",
+    "isoCode": "LK",
+    "countryCode": "+94"
+  },
+  { "slug": "sudan", "name": "Sudan", "isoCode": "SD", "countryCode": "+249" },
+  {
+    "slug": "suricountry",
+    "name": "Suricountry",
+    "isoCode": "SR",
+    "countryCode": "+597"
+  },
+  {
+    "slug": "svalbard-and-jan-mayen",
+    "name": "Svalbard and Jan Mayen",
+    "isoCode": "SJ",
+    "countryCode": "+47"
+  },
+  {
+    "slug": "swaziland",
+    "name": "Swaziland",
+    "isoCode": "SZ",
+    "countryCode": "+268"
+  },
+  { "slug": "sweden", "name": "Sweden", "isoCode": "SE", "countryCode": "+46" },
+  {
+    "slug": "switzerland",
+    "name": "Switzerland",
+    "isoCode": "CH",
+    "countryCode": "+41"
+  },
+  {
+    "slug": "syrian-arab-republic",
+    "name": "Syrian Arab Republic",
+    "isoCode": "SY",
+    "countryCode": "+963"
+  },
+  {
+    "slug": "taiwan-province-of-china",
+    "name": "Taiwan, Province of China",
+    "isoCode": "TW",
+    "countryCode": "+886"
+  },
+  {
+    "slug": "tajikistan",
+    "name": "Tajikistan",
+    "isoCode": "TJ",
+    "countryCode": "+992"
+  },
+  {
+    "slug": "tanzania-united-republic-of",
+    "name": "Tanzania, United Republic of",
+    "isoCode": "TZ",
+    "countryCode": "+255"
+  },
+  {
+    "slug": "thailand",
+    "name": "Thailand",
+    "isoCode": "TH",
+    "countryCode": "+66"
+  },
+  {
+    "slug": "timor-leste",
+    "name": "Timor-Leste",
+    "isoCode": "TL",
+    "countryCode": "+670"
+  },
+  { "slug": "togo", "name": "Togo", "isoCode": "TG", "countryCode": "+228" },
+  {
+    "slug": "tokelau",
+    "name": "Tokelau",
+    "isoCode": "TK",
+    "countryCode": "+690"
+  },
+  { "slug": "tonga", "name": "Tonga", "isoCode": "TO", "countryCode": "+676" },
+  {
+    "slug": "trinidad-and-tobago",
+    "name": "Trinidad and Tobago",
+    "isoCode": "TT",
+    "countryCode": "+1 868"
+  },
+  {
+    "slug": "tunisia",
+    "name": "Tunisia",
+    "isoCode": "TN",
+    "countryCode": "+216"
+  },
+  { "slug": "turkey", "name": "Turkey", "isoCode": "TR", "countryCode": "+90" },
+  {
+    "slug": "turkmenistan",
+    "name": "Turkmenistan",
+    "isoCode": "TM",
+    "countryCode": "+993"
+  },
+  {
+    "slug": "turks-and-caicos-islands",
+    "name": "Turks and Caicos Islands",
+    "isoCode": "TC",
+    "countryCode": "+1 649"
+  },
+  {
+    "slug": "tuvalu",
+    "name": "Tuvalu",
+    "isoCode": "TV",
+    "countryCode": "+688"
+  },
+  {
+    "slug": "uganda",
+    "name": "Uganda",
+    "isoCode": "UG",
+    "countryCode": "+256"
+  },
+  {
+    "slug": "ukraine",
+    "name": "Ukraine",
+    "isoCode": "UA",
+    "countryCode": "+380"
+  },
+  {
+    "slug": "united-arab-emirates",
+    "name": "United Arab Emirates",
+    "isoCode": "AE",
+    "countryCode": "+971"
+  },
+  {
+    "slug": "united-kingdom",
+    "name": "United Kingdom",
+    "isoCode": "GB",
+    "countryCode": "+44"
+  },
+  {
+    "slug": "united-states",
+    "name": "United States",
+    "isoCode": "US",
+    "countryCode": "+1"
+  },
+  {
+    "slug": "uruguay",
+    "name": "Uruguay",
+    "isoCode": "UY",
+    "countryCode": "+598"
+  },
+  {
+    "slug": "uzbekistan",
+    "name": "Uzbekistan",
+    "isoCode": "UZ",
+    "countryCode": "+998"
+  },
+  {
+    "slug": "vanuatu",
+    "name": "Vanuatu",
+    "isoCode": "VU",
+    "countryCode": "+678"
+  },
+  {
+    "slug": "venezuela-bolivarian-republic-of",
+    "name": "Venezuela, Bolivarian Republic of",
+    "isoCode": "VE",
+    "countryCode": "+58"
+  },
+  {
+    "slug": "viet-nam",
+    "name": "Viet Nam",
+    "isoCode": "VN",
+    "countryCode": "+84"
+  },
+  {
+    "slug": "virgin-islands-british",
+    "name": "Virgin Islands, British",
+    "isoCode": "VG",
+    "countryCode": "+1 284"
+  },
+  {
+    "slug": "virgin-islands-us",
+    "name": "Virgin Islands, U.S.",
+    "isoCode": "VI",
+    "countryCode": "+1 340"
+  },
+  {
+    "slug": "wallis-and-futuna",
+    "name": "Wallis and Futuna",
+    "isoCode": "WF",
+    "countryCode": "+681"
+  },
+  { "slug": "yemen", "name": "Yemen", "isoCode": "YE", "countryCode": "+967" },
+  {
+    "slug": "zambia",
+    "name": "Zambia",
+    "isoCode": "ZM",
+    "countryCode": "+260"
+  },
+  {
+    "slug": "zimbabwe",
+    "name": "Zimbabwe",
+    "isoCode": "ZW",
+    "countryCode": "+263"
+  }
+]
